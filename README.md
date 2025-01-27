@@ -13,8 +13,7 @@ UberViteApp is a full-stack application that simulates the functionality of a ri
 - [Frontend](#frontend)
 - [Setup](#setup)
   - [Backend Setup](#backend-setup)
-  - [Frontend Setup](#frontend-setup)
-- [Usage](#usage)
+ 
 
 ## Project Structure
 ## Backend
