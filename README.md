@@ -1,5 +1,8 @@
  UberViteApp
--[UI](LoginRegisterUI.jpg)
+![Login/Register UI](LoginRegisterUI.jpg)
+![Captain UI](captainUI.jpg)
+![useUI](userUI.jpg)
+
 UberViteApp is a full-stack application that simulates the functionality of a ride-hailing service like Uber. The application consists of a backend server built with Node.js, Express, and MongoDB, and a frontend built with React and Vite.
 
 ## Table of Contents
